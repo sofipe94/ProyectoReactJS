@@ -1,0 +1,14 @@
+.carrito{
+    background-color: white;
+    border-radius: 80px;
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.carrito img{
+    width: 30px;
+    height: auto;
+    margin: 5px;
+}

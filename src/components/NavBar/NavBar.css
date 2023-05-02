@@ -1,0 +1,30 @@
+.nav{
+    display: inline-flex;
+    justify-content: space-evenly;
+    align-items:center;
+    background-color: rgba(119, 147, 145, 0.932);
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    height: 80px;
+    width: 80px;
+    margin: 20px;
+}
+.brand{
+    color: white;
+    font-size: 350%;
+    margin: 10px;
+}
+.menu{
+    margin: 20px;
+    
+}
+.menu button{
+    margin: 10px;
+    background-color: transparent;
+    color: white;
+    font-size: 120%;
+    border: none;
+}
