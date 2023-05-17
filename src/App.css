@@ -1,3 +1,8 @@
-@import "./components/CartWidget/CartWidget.css";
-@import "./components/ItemListContainer/ItemListContainer.css";
-@import "./components/NavBar/NavBar.css";
+@import "./components/cartWidget/cartWidget.css";
+@import "./components/itemListContainer/itemListContainer.css";
+@import "./components/navBar/navBar.css";
+@import "./components/itemCount/itemCount.css";
+@import "./components/itemList/itemList.css";
+@import "./components/item/item.css";
+@import "./components/itemDetailContainer/itemDetailContainer.css";
+@import "./components/itemDetail/itemDetail.css";
