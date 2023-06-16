@@ -1,3 +1,13 @@
+# Sobre la Tienda
+
+## Mulita
+
+Es una tienda de venta de láminas y cuadros para la decoración de espacios.
+
+### Autora
+
+Sofía Jazmín Pereyra
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
